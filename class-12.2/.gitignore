@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Public folder (optional, if auto-generated)
+public/
+
+# Ignore package-lock.json
+package-lock.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Coverage reports
+coverage/
+.nyc_output/
+
