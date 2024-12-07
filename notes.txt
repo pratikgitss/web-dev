@@ -1,0 +1,5 @@
+### week 12.4  ###
+
+error :- could not bring declaration file from pg 
+        we have to bring the types of pg library locally as well 
+        as the types are not there in js
